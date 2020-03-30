@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-03/30/2020 11:52-vinay)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Libraries: C:\Users\vinay\OneDrive\Desktop\scocer\sample-jenkin-plugin
+ \demo-plugin\src\main\resources,C:\Users\vinay\OneDrive\Desktop\scoce
+ r\sample-jenkin-plugin\demo-plugin\target\classes
+Resource-Path: C:\Users\vinay\OneDrive\Desktop\scocer\sample-jenkin-pl
+ ugin\demo-plugin\src\main\webapp
+

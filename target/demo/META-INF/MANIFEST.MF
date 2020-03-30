@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: vinay
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_241
+Extension-Name: demo
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: demo
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-03/15/2020 10:15-vinay)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+
